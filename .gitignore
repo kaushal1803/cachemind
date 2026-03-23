@@ -1,0 +1,43 @@
+# =============================
+# Ignore ALL datasets & results
+# =============================
+data/
+results/
+logs/
+outputs/
+
+# Large files
+*.csv
+*.json
+*.jsonl
+*.pkl
+*.parquet
+*.h5
+*.npz
+*.npy
+
+# Databases
+*.db
+*.sqlite
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
