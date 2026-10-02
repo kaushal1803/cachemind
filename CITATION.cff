@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+type: software
+title: "Cachemind research artifact"
+message: "If you use this artifact, please cite the associated paper in preferred-citation. Also cite the exact archived software version once a release DOI is available."
+repository-code: https://github.com/kaushal1803/cachemind
+authors:
+  - family-names: "Mhapsekar"
+    given-names: "Kaushal"
+preferred-citation:
+  type: conference-paper
+  title: "CacheMind: From Miss Rates to Why — Natural-Language, Trace-Grounded Reasoning for Cache Replacement"
+  doi: "10.1145/3779212.3790136"
+  year: 2026
+  collection-title: "Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
+  authors:
+    - family-names: "Mhapsekar"
+      given-names: "Kaushal"
+    - family-names: "Ghanbari"
+      given-names: "Azam"
+    - family-names: "Aslrousta"
+      given-names: "Bita"
+    - family-names: "Mirbagher-Ajorpaz"
+      given-names: "Samira"
